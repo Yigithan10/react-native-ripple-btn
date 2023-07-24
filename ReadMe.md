@@ -1,7 +1,7 @@
 This is a custom button with ripple effect.
-My versions:
-1- react-native-gesture-handler: 2.9
-2- react-native-reanimated: 2.1
+My build versions:
+1- react-native-gesture-handler: 2.9.0
+2- react-native-reanimated: 2.14.4
 
 ## Installation
 
@@ -19,11 +19,10 @@ My versions:
 
 ```js
     //App.js
-    import RippleButton from "react-native-ripple-btn";
     import { GestureHandlerRootView } from "react-native-gesture-handler";
 
     <GestureHandlerRootView style={{flex: 1}}>
-      <RippleButton />
+      //Your codes in here
     </GestureHandlerRootView>
 
     //Usage in screen
