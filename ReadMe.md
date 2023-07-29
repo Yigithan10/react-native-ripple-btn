@@ -46,6 +46,7 @@ My build versions:
 | :------------- | :------- | :---------------------- | :------- |
 | `duration`     | `Number` | Duration in ms.         | 1000     |
 | `width`        | `String` | Button width.           | "70%"    |
+| `height`        | `Number` | Button height.           | 50    |
 | `text`         | `String` | Button text.            | "Text"   |
 | `textSize`     | `Number` | Button textSize.        | 20       |
 | `textColor`    | `String` | Button textColor.       | "white"  |
