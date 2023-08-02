@@ -29,24 +29,29 @@ My build versions:
     import RippleButton from "react-native-ripple-btn";
 
     <RippleButton
-        duration={800}
-        width={'70%'}
-        text={'btn text'}
-        textSize={24}
-        textColor={'white'}
-        bgColor={'black'}
-        borderRadius={30}
-        onPress={onPress}
+      duration={800}
+      opacity={0.8}
+      opacityColor={'white'}
+      width={'70%'}
+      height={50}
+      text={'Button text'}
+      textSize={20}
+      textColor={'white'}
+      bgColor={'purple'}
+      borderRadius={10}
+      onPress={onPress}
     />
 ```
 
 ## API
-
+opacity 0.8;   opacityColor = 'white';
 | prop           | type     | description             | default  |
 | :------------- | :------- | :---------------------- | :------- |
-| `duration`     | `Number` | Duration in ms.         | 1000     |
+| `duration`     | `Number` | Duration in ms.         | 800      |
+| `opacity`      | `Number` | Ripple effect opacity.  | 0.8      |
+| `opacityColor` | `String` | Ripple effect color.    | "white"  |
 | `width`        | `String` | Button width.           | "70%"    |
-| `height`        | `Number` | Button height.           | 50    |
+| `height`       | `Number` | Button height.          |   50     |
 | `text`         | `String` | Button text.            | "Text"   |
 | `textSize`     | `Number` | Button textSize.        | 20       |
 | `textColor`    | `String` | Button textColor.       | "white"  |
