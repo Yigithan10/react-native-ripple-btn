@@ -44,7 +44,7 @@ My build versions:
 ```
 
 ## API
-opacity 0.8;   opacityColor = 'white';
+
 | prop           | type     | description             | default  |
 | :------------- | :------- | :---------------------- | :------- |
 | `duration`     | `Number` | Duration in ms.         | 800      |
