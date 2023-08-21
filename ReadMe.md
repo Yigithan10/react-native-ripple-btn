@@ -6,7 +6,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-ripple-btn
+npm install react-native-ripple-btn
 ```
 
 ## Doc
