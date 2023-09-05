@@ -1,7 +1,7 @@
 This is a custom button with ripple effect.
 My build versions:
 1- react-native-gesture-handler: 2.9.0
-2- react-native-reanimated: 2.14.4
+2- react-native-reanimated: 2.14.4 
 
 ## Installation
 
