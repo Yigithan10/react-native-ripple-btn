@@ -3,7 +3,7 @@ My build versions:
 1- react-native-gesture-handler: 2.9.0
 2- react-native-reanimated: 2.14.4  
 
-## Installation
+## Installation 
 
 ```bash
 npm install react-native-ripple-btn
