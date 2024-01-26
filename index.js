@@ -9,7 +9,7 @@ import Animated, {
   useAnimatedStyle,
   useSharedValue,
   withTiming,
-} from "react-native-reanimated";
+} from "react-native-reanimated"; 
 
 const RippleButton = (props) => {
   let duration = props.duration;
