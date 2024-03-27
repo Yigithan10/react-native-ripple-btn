@@ -6,7 +6,7 @@ import Animated, {
   runOnJS,
   useAnimatedGestureHandler,
   useAnimatedRef,
-  useAnimatedStyle,
+  useAnimatedStyle, 
   useSharedValue,
   withTiming,
 } from "react-native-reanimated"; 
